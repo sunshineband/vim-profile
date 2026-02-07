@@ -15,3 +15,4 @@ vim.opt.shiftwidth = 2
 vim.opt.listchars:append({ space = '·' })
 vim.opt.inccommand = split
 vim.opt.termguicolors = true
+vim.opt.colorcolumn = "80"
